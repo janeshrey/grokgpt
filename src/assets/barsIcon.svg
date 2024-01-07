@@ -1,0 +1,9 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24">
+	<title>barsIcon-svg</title>
+	<defs>
+		<image  width="18" height="12" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAAMBAMAAACdPPCPAAAAAXNSR0IB2cksfwAAABVQTFRFpaSkpqWlpaSkpaSkT05OpaWlpaWlhEr8ZAAAAAd0Uk5T1P9agACWwM2p6L8AAAAlSURBVHicY2AUhAABBmVjCDBicIEBrKywNAhIRWLh14EwGW4bABFSGeecEq6iAAAAAElFTkSuQmCC"/>
+	</defs>
+	<style>
+	</style>
+	<use id="Layer" href="#img1" x="3" y="6"/>
+</svg>

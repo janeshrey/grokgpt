@@ -1,0 +1,9 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24">
+	<title>xicon-svg</title>
+	<defs>
+		<image  width="14" height="14" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAMAAAAolt3jAAAAAXNSR0IB2cksfwAAADZQTFRFvr+/vr+/gYKBvr+/vr+/v7+/v8C/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/vr+/v7+/RQ5/kwAAABJ0Uk5TanAAdWeL/3+HepOA/3yReHJ9OCr/tAAAAFNJREFUeJxFz1sOgDAIRNEpCtZSX/vfrLZTLH8nITcAJPlnWaG2hbLtkGJOqalAwk2NdFdnM0VKqdSgWvXJb3P0EE0a0aQRonFYjiNPu3A/8wVPLzcKAyhtknDAAAAAAElFTkSuQmCC"/>
+	</defs>
+	<style>
+	</style>
+	<use id="Layer" href="#img1" x="5" y="5"/>
+</svg>
